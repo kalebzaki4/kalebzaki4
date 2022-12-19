@@ -20,3 +20,5 @@
 
 
 Apaixonado por programação, disciplina e mudar a vida de pessoas com programação!
+
+  ![Snake animation](https://github.com/kalebzaki4/kalebzaki4/blob/output/github-contribution-grid-snake.svg)
