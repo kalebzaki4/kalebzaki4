@@ -5,8 +5,6 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com)
 [![Discord](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twich.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalebzaki4&show_icons=true&theme=tokyonight)
-
 ## Tecnologias Que eu uso no Meu Dia:   
 
 <div style="display: inline_block"><br>
