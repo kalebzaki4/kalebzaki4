@@ -5,7 +5,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com)
 [![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twich.com)
 
-![kaleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalebzaki&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 ## Tecnologias Que eu uso no Meu Dia:   
 
