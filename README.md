@@ -5,7 +5,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/UWedkYaf)
 [![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/kalebzaki)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OlaLeonardoAmaral&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kalebzaki4&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
 ## Tecnologias Que eu uso no Meu Dia:   
 
