@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Kaleb Santos 🖖
+## Olá! Eu sou o Kaleb Santos 🖖
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/UWedkYaf)
@@ -28,7 +28,9 @@
       <img alt="Node.Js" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   
 </div>
-Apaixonado por programação, disciplina e mudar a vida de pessoas com programação!
+
+### Apaixonado por programação, disciplina e mudar a vida de pessoas com programação!
+<div style="display: inline_block"><br>
 
  <img src="https://media3.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e47sqrmk36qzmau67yldhjsuw2jos0cyk3k7taoc74g&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="320">
 
