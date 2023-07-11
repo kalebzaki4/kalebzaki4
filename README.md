@@ -29,3 +29,6 @@
   
 </div>
 Apaixonado por programação, disciplina e mudar a vida de pessoas com programação!
+
+ <img src="https://media3.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e47sqrmk36qzmau67yldhjsuw2jos0cyk3k7taoc74g&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="320">
+
