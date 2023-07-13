@@ -1,34 +1,74 @@
+<div align="center">
+ <img src="https://github.com/kalebzaki4/kalebzaki4/blob/main/img/img.png?raw=true" align-items="center">
+ <div/>
 
-## Olá! Eu sou o Kaleb Santos 🖖
+<p align="center">
+Meu objetivo é me tornar um desenvolvedor full stack e trabalhar em uma empresa onde me sinta bem e possa aplicar minhas habilidades e conhecimentos de forma plena.
+</p>
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/UWedkYaf)
-[![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/kalebzaki)
+##
+
+<br>
+
+<!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="360px"/>
+
+
+<br>
 
 
 
-## Tecnologias Que eu uso no Meu Dia:   
+- 🔭 Estou estudando para me **tornar um Desenvolvedor Fullstack**.
 
-<div style="display: inline_block"><br>
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img alt="Node.Js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+- 🌱 Atualmente estou aprendendo **React**.
+
+- 📫 Como me contatar: **kalebzsantosk@gmail.com**.
+
+- 💬 Me pergunte sobre **HTML e CSS**.
+
+- 🤝 Estou procurando ajuda para aprender sobre **Sites Dinâmicos**.
+
+<br>
+<br>
+
+
+## 🎯 Metas Futuras
+
+- 🧠 Estudar os fundamentos de um desenvolvedor **BACK-END, DEVOPS e BANCO DE DADOS**.
+- 🌟 Compartilhar meu conhecimento e experiências, ensinando e orientando outras pessoas na comunidade de tecnologia.
+- 🤖 Construir um projeto do zero que divirta as pessoas da cultura geek nerd trazendo a serie que elas gostam!
+
+## 📈 Conquistas
+
+- 🎉 1 Ano e 2 Meses de **Estudos Focados**, sem parar um dia.
+- 🤝 Diversos certificados na área, como cursos do **Curso em Vídeo, Alura e Hashtag Programação**.
+
+<h2 align="center">👨‍💻 Mais Sobre mim no GitHub</h2>
+
+
+<details>
+<summary><b>🔥 Estatísticas Sequenciais</b></summary>
+<br>
+<p align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=kalebzaki4&theme=dracula&hide_border=true" alt="kalebzaki4" width="390"/>
+</p>
+</details>
+  
   
 
-</div>
 
-## Tecnologias Que estou Aperfeiçoando:   
+<!-- BLOG-POST-LIST:END -->
+</p>
+</details>
 
-<div style="display: inline_block"><br>
-    <img alt="Node.Js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-      <img alt="Node.Js" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-       <img alt="Node.Js" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  
-</div>
+<details>
+<summary><b>⚡ Status Públicos do Github</b></summary>
+<br>
+<p align="center">
+<img height="180em" src="https://github-readme-stats-vert-three-11.vercel.app/api?username=kalebzaki4&show_icons=true&theme=dracula&hide"/>
+<img height="180em" src="https://github-readme-stats-vert-three-11.vercel.app/api/top-langs/?username=kalebzaki4&layout=compact&langs_count=6&theme=dracula&hide"/>
+</p>
+</details>
 
-### Apaixonado por programação, disciplina e mudar a vida de pessoas com programação!
-<div style="display: inline_block"><br>
-
- <img src="https://media3.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e47sqrmk36qzmau67yldhjsuw2jos0cyk3k7taoc74g&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="320">
-
+<br>
