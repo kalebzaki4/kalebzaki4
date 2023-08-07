@@ -72,5 +72,3 @@ Meu objetivo é me tornar um desenvolvedor full stack e trabalhar em uma empresa
 </details>
 
 <br>
-
-meu aniversario é dia 30/07, hoje, para mim, é meu aniversario, obrigado!
