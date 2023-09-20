@@ -49,18 +49,6 @@ Meu objetivo é me tornar um desenvolvedor full stack e trabalhar em uma empresa
 
 <h2 align="center">👨‍💻 Mais Sobre mim no GitHub</h2>
 
-
-<details>
-<summary><b>🔥 Estatísticas Sequenciais</b></summary>
-<br>
-<p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=kalebzaki4&theme=dracula&hide_border=true" alt="kalebzaki4" width="390"/>
-</p>
-</details>
-  
-  
-
-
 <!-- BLOG-POST-LIST:END -->
 </p>
 </details>
