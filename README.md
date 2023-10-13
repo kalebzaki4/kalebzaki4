@@ -49,17 +49,4 @@ Meu objetivo é me tornar um desenvolvedor full stack e trabalhar em uma empresa
 
 <h2 align="center">👨‍💻 Mais Sobre mim no GitHub</h2>
 
-<!-- BLOG-POST-LIST:END -->
-</p>
-</details>
-
-<details>
-<summary><b>⚡ Status Públicos do Github</b></summary>
-<br>
-<p align="center">
-<img height="180em" src="https://github-readme-stats-vert-three-11.vercel.app/api?username=kalebzaki4&show_icons=true&theme=dracula&hide"/>
-<img height="180em" src="https://github-readme-stats-vert-three-11.vercel.app/api/top-langs/?username=kalebzaki4&layout=compact&langs_count=6&theme=dracula&hide"/>
-</p>
-</details>
-
 <br>
