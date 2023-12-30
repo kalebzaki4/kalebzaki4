@@ -45,6 +45,6 @@ Meu objetivo é me tornar um desenvolvedor full stack e trabalhar em uma empresa
 ## 📈 Conquistas
 
 - 🎉 1 Ano e 6 Meses de **Estudos Focados**.
-- 🤝 Diversos certificados na área, como cursos do **Curso em Vídeo, Alura e Hashtag Programação**.
+- 🤝 Diversos certificados na área, como cursos do **Curso em Vídeo, Alura e Hashtag Programação**
 
 <br>
