@@ -26,7 +26,7 @@ Meu objetivo é me tornar um desenvolvedor full stack e trabalhar em uma empresa
 
 - 📫 Como me contatar: **kalebzsantosk@gmail.com**.
 
-- 💬 Me pergunte sobre **HTML e CSS**.
+- 💬 Me pergunte sobre **Front-End**.
 
 - 🤝 Estou procurando ajuda para aprender sobre **Sites Dinâmicos**.
 
