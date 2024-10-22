@@ -24,7 +24,7 @@ Meu objetivo é me tornar um desenvolvedor full stack e trabalhar em uma empresa
 
 - 🌱 Atualmente estou aprendendo **React**.
 
-- 📫 Como me contatar: **kalebzsantosk@gmail.com**.
+- 📫 Como me contatar: **zsantoskaleb@gmail.com**.
 
 - 💬 Me pergunte sobre **Front-End**.
 
