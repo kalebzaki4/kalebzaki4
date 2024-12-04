@@ -3,7 +3,7 @@
  <div/>
 
 <p align="center">
-Meu objetivo é me tornar um desenvolvedor full stack e trabalhar em uma empresa onde me sinta bem e possa aplicar minhas habilidades e conhecimentos de forma plena.
+Meu objetivo é me tornar um desenvolvedor Java e trabalhar em uma empresa onde me sinta bem e possa aplicar minhas habilidades e conhecimentos de forma plena.
 </p>
 
 <img src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966" align="center" style="width: 100%" />
@@ -20,15 +20,15 @@ Meu objetivo é me tornar um desenvolvedor full stack e trabalhar em uma empresa
 <br>
 
 
-- 🔭 Estou estudando para me **tornar um Desenvolvedor Fullstack**.
+- 🔭 Estou estudando para me **tornar um Desenvolvedor Java**.
 
-- 🌱 Atualmente estou aprendendo **React**.
+- 🌱 Atualmente estou aprendendo **Orientação e Objetos**.
 
 - 📫 Como me contatar: **zsantoskaleb@gmail.com**.
 
 - 💬 Me pergunte sobre **Front-End**.
 
-- 🤝 Estou procurando ajuda para aprender sobre **Sites Dinâmicos**.
+- 🤝 Estou procurando ajuda para aprender sobre **Funções e métodos em Java**.
 
 <br>
 <br>
@@ -38,13 +38,13 @@ Meu objetivo é me tornar um desenvolvedor full stack e trabalhar em uma empresa
 
 ## 🎯 Metas Futuras
 
-- 🧠 Estudar os fundamentos de um desenvolvedor **BACK-END, DEVOPS e BANCO DE DADOS**.
+- 🧠 Estudar os fundamentos de um desenvolvedor **DEVOPS e BANCO DE DADOS**.
 - 🌟 Compartilhar meu conhecimento e experiências, ensinando e orientando outras pessoas na comunidade de tecnologia.
 - 🤖 Construir um projeto do zero que divirta as pessoas da cultura geek nerd trazendo a serie que elas gostam!
 
 ## 📈 Conquistas
 
-- 🎉 2 Anos e 3 mêses de **Estudos Focados**.
-- 🤝 Diversos certificados na área, como cursos do **Curso em Vídeo, Alura e Hashtag Programação**.
+- 🎉 2 Anos e 5 mêses de **Estudos Focados**.
+- 🤝 Diversos certificados na área, como cursos do **Curso em Vídeo e Alura**.
 
 <br>
