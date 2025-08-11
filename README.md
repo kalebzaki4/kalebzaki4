@@ -43,7 +43,7 @@
 
 ## 🏆 Conquistas
 
-- ⏳ Mais de <strong>2 anos e 5 meses</strong> de estudos intensivos.
+- ⏳ Mais de <strong>2 anos e 8 meses</strong> de estudos intensivos.
 - 📜 Vários certificados concluídos — destaque para cursos da **Alura** e do **Curso em Vídeo**.
 
 ---
