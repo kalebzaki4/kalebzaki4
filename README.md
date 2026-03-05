@@ -1,49 +1,81 @@
-<div align="center">
-  <img src="https://github.com/kalebzaki4/kalebzaki4/blob/main/img/img.png?raw=true" alt="Kaleb Zaki Banner" />
-</div>
+<h1 style="display: inline-block">👋 Olá, eu sou Kaleb Santos</h1>
 
-<p align="center">
-  🌱 Apaixonado por tecnologia e determinado a me tornar um <strong>Desenvolvedor Java</strong>. Busco uma oportunidade em uma empresa onde possa crescer, aprender e aplicar todo o meu potencial.
+<p>
+🚀 Estudante de desenvolvimento de software focado em Backend, APIs e DevOps.
+</p>
+
+<p>
+
+- 💻 Atualmente estudando **Java, Node.js e APIs REST**
+
+- ⚙️ Explorando **DevOps e CI/CD**
+
+- 📚 Sempre buscando aprender novas tecnologias e melhorar minhas habilidades em desenvolvimento de software
+
+- 🎯 Objetivo: me tornar um **desenvolvedor backend completo**
+
 </p>
 
 ---
+<details>
+<summary>👨‍💻 Sobre mim</summary>
 
-<img align="right" alt="GIF Dark Mode" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>
-<img align="right" alt="GIF Light Mode" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="360px"/>
+- 🎓 Estudante e desenvolvedor em formação  
+- 🧠 Interesses em **backend, arquitetura de software e cloud**  
+- 🛠 Experiência com projetos pessoais utilizando **Java, Angular e Node.js**  
+- 🌱 Atualmente estudando **DevOps, CI/CD e desenvolvimento de APIs**
 
-## 👨‍💻 Sobre Mim
-
-- 🔭 Estudando com foco em me tornar um **Desenvolvedor Java**.
-- 🌱 Atualmente aprendendo **Orientação a Objetos**.
-- 💬 Posso te ajudar com **Front-End**.
-- 🤝 Buscando aprender mais sobre **Funções e Métodos em Java**.
-- 📫 Entre em contato: **zsantoskaleb@gmail.com**
-- 💼 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/kaleb-z-santos-74214434b/)
+Também gosto de aprender na prática criando projetos e compartilhando conhecimento.
+</details>
 
 ---
 
-## 🚀 Tecnologias em Aprendizado
+<img align="right" src="https://komarev.com/ghpvc/?username=kalebzaki4&color=blue">
 
-![HTML](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<!-- Links -->
 
----
-
-## 🎯 Metas Futuras
-
-- 📚 Aprofundar conhecimentos em **DevOps** e **Banco de Dados**.
-- 🌍 Compartilhar experiências e ajudar a comunidade tech a crescer.
-- 🎮 Criar um projeto geek divertido, inspirado em séries amadas pela comunidade nerd.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaleb-z-santos-74214434b/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalebzaki4)
 
 ---
 
-## 🏆 Conquistas
+# 📊 Estatísticas do GitHub
 
-- ⏳ Mais de <strong>2 anos e 8 meses</strong> de estudos intensivos.
-- 📜 Vários certificados concluídos — destaque para cursos da **Alura** e do **Curso em Vídeo**.
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kalebzaki4&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kalebzaki4&theme=radical) |
+| :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalebzaki4&theme=radical) | ![](https://streak-stats.demolab.com?user=kalebzaki4&theme=tokyonight&hide_border=false) |
+| :-: | :-: |
+
+# 🛠 Tecnologias
+
+## Linguagens
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,html,css" />
 
 ---
 
-<!--- Créditos das ilustrações: Storyset (https://storyset.com/web) --->
+## Frameworks
+
+<img src="https://skillicons.dev/icons?i=angular,react,nodejs" />
+
+---
+
+## Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+
+---
+
+# 📚 Atualmente estudando
+
+- ☕ **Java Backend**
+- 🟢 **Node.js**
+- 🅰️ **React**
+- 🔗 **APIs REST**
+- ⚙️ **DevOps**
+- 🔄 **CI/CD**
+
+---
+
+⭐ Sempre aberto para aprender novas tecnologias e colaborar em projetos interessantes.
