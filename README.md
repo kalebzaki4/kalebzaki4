@@ -31,7 +31,7 @@ Sou um entusiasta de tecnologia focado em construir soluções de backend robust
 
 ### 🚀 Projetos em Destaque
 
-#### 🔗 [SyncSpace](https://github.com/kalebzaki4/syncspace)
+#### 🔗 [SyncSpace](https://github.com/kalebzaki4/room-reservation-api)
 *Sistema de Gerenciamento de Usuários com foco em Backend Profissional.*
 - **Destaques Técnicos:** Separação de responsabilidades (Service/Controller), criptografia de senhas com `BCrypt`, integridade transacional com `@Transactional` e documentação de API.
 - **Tech Stack:** Java 17, Spring Boot, MySQL.
