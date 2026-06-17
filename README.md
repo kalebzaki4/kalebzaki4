@@ -1,11 +1,11 @@
 <h1 align="center">👋 Olá, eu sou Kaleb Santos</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Backend Java | Spring Boot | APIs Seguras | Arquitetura Escalável</strong>
+  <strong>Desenvolvedor Backend Java | Spring Boot 3 | APIs Resilientes | Arquitetura Escalável</strong>
 </p>
 
 <p align="center">
-  🚀 Atualmente em busca de oportunidade como Estágio / Jovem Aprendiz em Tecnologia
+  🚀 Em busca de evolução contínua e da primeira oportunidade como Estágio / Jovem Aprendiz em Tecnologia
 </p>
 
 <p align="center">
@@ -25,161 +25,142 @@
 
 # 👨‍💻 Sobre Mim
 
-Sou um desenvolvedor backend em formação, apaixonado por tecnologia e por construir soluções robustas, seguras e escaláveis.
+Sou um desenvolvedor backend focado no ecossistema **Java e Spring Boot**, dedicado a construir sistemas seguros, limpos e de alta performance. Minha jornada na tecnologia começou em 2022 e, desde então, evoluí dos fundamentos full-stack para um mergulho profundo em arquitetura de software corporativa.
 
-Meu foco principal está no ecossistema **Java + Spring Boot**, aplicando boas práticas como **Clean Code, SOLID, arquitetura em camadas e desenvolvimento orientado a boas práticas de mercado**.
+Sigo rigorosamente princípios de **Clean Code, SOLID, e separação de responsabilidades**. Busco ir além do "código que funciona", preocupando-me ativamente com a manutenibilidade a longo prazo, análise estática e prevenção de débitos técnicos.
 
-Busco criar sistemas que não apenas funcionem, mas que sejam sustentáveis, organizados e preparados para crescimento real em ambiente profissional.
+> 🎯 **Nota de Transparência sobre meu Foco:** No meu histórico, possuo uma carga horária expressiva em tecnologias Frontend (React, TypeScript, Angular). No entanto, **o Frontend não é o meu foco**. Tomei a decisão estratégica de direcionar 100% da minha energia para a Engenharia Backend. Como estou há bastante tempo sem praticar a construção de interfaces, posso enfrentar uma curva natural de readaptação ou lentidão inicial caso precise atuar no Front. Tenho a base conceitual, mas minha real fluidez e domínio prático hoje estão nas regras de negócio, segurança e bancos de dados.
 
-Atualmente, concentro meus estudos em:
-
-- 🔐 Segurança de APIs com JWT e autenticação robusta
-- 🏗️ Arquitetura escalável com Spring Boot 3
-- 🐳 Docker e práticas de DevOps
-- ⚙️ CI/CD e automação de processos
-- 🧪 Testes automatizados e qualidade de software
+### 🎯 Meus focos atuais de estudo e aplicação:
+- 🔐 **Segurança Avançada:** Autenticação Stateless com Spring Security, filtros customizados e JWT.
+- 🏗️ **Arquitetura & Design:** Padrão DTO com Java Records, injeção de dependência estritamente via construtor e desacoplamento de entidades.
+- 🐳 **Infraestrutura como Código & DevOps:** Containerização de ambientes com Docker/Docker Compose e automação de CI/CD.
+- 🛡️ **Resiliência:** Tratamento global de exceções centralizado e controle de concorrência.
 
 ---
 
 # 🚀 Projetos em Destaque
 
----
+## 💳 [Payment Gateway API](https://github.com/kalebzaki4/payment-gateway-api)
+### API Robusta para Simulação de Ecossistema Fintech
 
-## 🔗 SyncSpace  
-### Sistema profissional de reservas corporativas com backend escalável
+API desenvolvida para simular cenários reais do mercado financeiro e de grandes empresas de tecnologia (fintechs), focada no processamento de transações de alta criticidade, consistência de dados e resiliência.
 
-Projeto desenvolvido para simular desafios reais de sistemas corporativos, com foco em segurança, escalabilidade e manutenção a longo prazo.
+- **Diferenciais Técnicos:** Aplicação prática de conceitos de arquitetura distribuída, gestão avançada de transações financeiras e isolamento de regras de negócio de alta complexidade.
+- **Boas Práticas:** Tratamento rigoroso de payloads de entrada, blindagem contra estados inconsistentes e validação nativa.
 
-A aplicação permite gerenciamento de usuários, autenticação segura com JWT, controle de permissões, integridade transacional e arquitetura organizada para crescimento sustentável.
-
-### Principais diferenciais:
-
-- API REST com Spring Boot
-- Autenticação e autorização com JWT
-- Criptografia de senhas com BCrypt
-- Arquitetura em camadas (Controller / Service / Repository)
-- Validação de dados e tratamento de exceções
-- Persistência com MySQL
-- Documentação com Swagger
-- Docker Compose para ambiente local
-- Testes com JUnit + Mockito
-
-### Tech Stack
-
-`Java 21` `Spring Boot 3` `Spring Security` `JWT` `MySQL` `Docker` `Swagger` `JUnit`
-
-🔗 Projeto:  
-https://github.com/kalebzaki4/room-reservation-api
+**Tech Stack:** `Java 21` `Spring Boot 3` `Spring Data JPA` `MySQL` `Docker` `REST API`
 
 ---
 
-## 🔗 Estuda+  
-### Plataforma FullStack para organização de estudos
+## 🔗 [SyncSpace](https://github.com/kalebzaki4/room-reservation-api)
+### Sistema Corporativo de Reservas com Controle de Concorrência
 
-Projeto focado em produtividade estudantil, com interface moderna e experiência intuitiva para organização de tarefas e rotina acadêmica.
+API corporativa de alta performance para reserva de salas, projetada para mitigar gargalos reais de concorrência e integridade transacional em sistemas escaláveis.
 
-Esse projeto reforça minha capacidade de atuar também com integração frontend/backend e desenvolvimento orientado à experiência do usuário.
+- **Controle de Concorrência:** Implementação de **Optimistic Locking (@Version)** para garantir a consistência dos dados em múltiplos acessos simultâneos.
+- **Segurança Blindada:** Interceptação customizada de requisições via cadeia de filtros (**OncePerRequestFilter**) integrada ao Spring Security e JWT.
+- **Design Limpo:** Arquitetura em camadas, injeção de dependência segura via construtor (imutabilidade com `private final`), isolamento de contratos usando **Java Records como DTOs** e tratamento global de erros com `@ControllerAdvice`.
+- **Qualidade de Código:** Refatorado constantemente utilizando análise estática com **SonarQube** para eliminação de *code smells*.
 
-### Tech Stack
-
-`React` `TypeScript` `Tailwind CSS` `JavaScript`
-
-🔗 Projeto:  
-https://github.com/kalebzaki4/Estuda-Mais
+**Tech Stack:** `Java 21` `Spring Boot 3.2` `Spring Security` `JWT` `MySQL` `Docker Compose` `Swagger (OpenAPI)` `JUnit` `Mockito`
 
 ---
 
-## 🔗 Projeto Fintech (Em construção)  
-### Sistema inspirado em soluções financeiras reais
+## 📅 [Estuda+ (Plataforma FullStack)](https://github.com/kalebzaki4/Estuda-Mais)
+### Ecossistema Web para Produtividade Acadêmica
 
-Projeto que será desenvolvido com foco em desafios de fintechs como PagBank, incluindo gestão de transações, autenticação segura, controle financeiro e arquitetura escalável.
+Aplicação voltada para organização de tarefas e rotina de estudos, unindo uma interface moderna e intuitiva a um ecossistema backend integrado.
 
-Objetivo: construir uma aplicação que demonstre domínio técnico alinhado ao mercado financeiro e grandes empresas de tecnologia.
+- **Integração Ponta a Ponta:** Autenticação segura via JWT, monitoramento de progresso do estudante em tempo real e persistência relacional.
+- **Infraestrutura Local:** Ambiente totalmente containerizado e orquestrado, utilizando Nginx para servir o ecossistema frontend de forma eficiente.
+
+**Tech Stack:** `React` `TypeScript` `Tailwind CSS` `Java` `Spring Boot` `MySQL` `Docker` `Nginx`
+
+---
+
+## 📦 Outros Projetos Relevantes
+- **[CSV Data Importer](https://github.com/kalebzaki4/csv-data-importer):** Serviço de processamento em lote (Batch Processing) para ingestão transacional de grandes volumes de dados de vendas usando OpenCSV e Hibernate.
 
 ---
 
 # 🛠 Tecnologias e Ferramentas
 
-## Backend & Database
+### Backend & Bancos de Dados (Foco Principal)
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,mysql,postgresql,postman" alt="Backend Skills" />
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,mysql,postgresql,postman" />
+### DevOps, Infraestrutura & Ferramentas
+<img src="https://skillicons.dev/icons?i=docker,nginx,git,github,linux,vscode" alt="Tools Skills" />
 
----
-
-## Frontend & Web
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind" />
-
----
-
-## DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" />
+### Frontend & Linguagens de Interface (Histórico/Conceitual)
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind" alt="Frontend Skills" />
 
 ---
 
-# ⭐ Diferenciais Profissionais
+# ⭐ Diferenciais que Entrego
 
-- Desenvolvimento de APIs REST seguras
-- Arquitetura backend escalável
-- Clean Code e princípios SOLID
-- Segurança com JWT + Spring Security
-- Docker + ambiente containerizado
-- Documentação técnica com Swagger
-- Testes automatizados
-- Versionamento profissional com Git/GitHub
-- Aprendizado contínuo e evolução constante
+- **Mentalidade Clean Code:** Substituição de injeção por atributo (*Field Injection*) por injeção via construtor, garantindo código altamente testável.
+- **APIs Limpas (Sem try-catch espalhado):** Centralização de erros através de exceções semânticas de domínio capturadas por um Handler global.
+- **Garantia de Desempenho:** Preocupação com transações e performance de banco de dados (Indexação, Batch updates com JPA).
+- **Documentação Viva:** Contratos de APIs 100% documentados e testáveis via Swagger UI.
 
 ---
 
-# 📚 Cursos & Certificações
+# 📚 Cursos & Certificações (Alura)
 
-| Certificação | Plataforma | Foco Principal | Ano |
-|---|---|---|---|
-| Spring Boot 3: API REST | Alura | Java + APIs REST | 2026 |
-| Spring Boot 3: Boas Práticas e Proteção | Alura | Security + JWT + Auth | 2026 |
-| DevOps: Containers com Docker | Alura | Docker + DevOps | 2026 |
+Com **mais de 99 cursos concluídos**, organizei abaixo as formações e especializações de maior impacto e relevância técnica para o mercado corporativo:
+
+### 🔥 Java & Ecossistema Spring Boot (Foco Backend)
+* **Trilha Java e Spring Boot 3 (32h):** Desenvolvimento de APIs REST, Spring Security (Autenticação Stateless com JWT), testes dinâmicos, documentação e deploy.
+* **Trilha Java Web & Spring Data JPA (40h):** Domínio de concorrência, mapeamento relacional, consultas avançadas e uso avançado de Java Lambdas e Streams.
+* **Trilha Boas Práticas em Java (30h):** Refatoração de código legado, aplicação de SOLID e automação de testes unitários.
+* **Selenium com Java (8h):** Desenvolvimento de testes automatizados de aceitação ponta a ponta.
+
+### 🐳 DevOps & Infraestrutura
+* **DevOps & Containers com Docker (8h):** Construção, gerenciamento e orquestração de ambientes isolados usando Docker e Docker Compose.
+* **Redes, Protocolos & Fundamentos da Web (32h):** Compreensão aprofundada de arquitetura de redes, VLANs, segurança e tráfego HTTP por baixo dos panos.
+
+### 💾 Engenharia de Dados
+* **Modelagem de Bancos de Dados (24h):** Arquitetura e design de dados relacionais (Entidades, Atributos, Relacionamentos e Modelo Lógico).
+
+### ⚛️ Frontend (Bagagem de Fundamentos / Fora de Prática Ativa)
+* **Formações React com TypeScript (~220h acumuladas):** Componentes modernos, gerenciamento de estado (Recoil/Context API), React Router, testes e performance.
+* **Formações Angular & Testes Avançados (~70h):** Fundamentos do framework, CRUDs e testes de interfaces com Jasmine e Karma.
+> ⚠️ *Nota técnica:* Embora possua sólida bagagem teórica nesta seção, estes estudos fazem parte da minha base fullstack inicial. Por opção de carreira, não venho exercitando o desenvolvimento visual em código recentemente, focando restritamente no backend.
 
 ---
 
 # 📈 Roadmap 2026
 
-## Evolução técnica planejada
-
-- [x] APIs REST com Spring Boot
-- [x] Segurança com JWT
-- [x] Docker e containers
-- [x] Swagger e documentação técnica
-- [x] Arquitetura em camadas
-- [ ] GitHub Actions + CI/CD
-- [ ] Testes de integração
-- [ ] Microsserviços com Spring Cloud
-- [ ] Projeto Fintech completo
-- [ ] Deploy profissional em produção
+- [x] APIs REST robustas com Spring Boot 3
+- [x] Segurança Avançada com JWT e Filtros
+- [x] Docker e Orquestração de Containers locais
+- [x] Projeto Fintech Completo (`payment-gateway-api`)
+- [ ] Automação de CI/CD com GitHub Actions completo nos repositórios
+- [ ] Escrita de Testes de Integração abrangentes
+- [ ] Arquiteturas de Microsserviços com Spring Cloud
+- [ ] Deploy profissional em Provedor Cloud (AWS/GCP)
 
 ---
 
-# 📊 GitHub Stats
+# 📊 Estatísticas
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kalebzaki4&theme=radical" width="400">
-  <img src="https://streak-stats.demolab.com?user=kalebzaki4&theme=tokyonight&hide_border=false" width="400">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kalebzaki4&theme=radical" width="400" alt="GitHub Stats">
+  <img src="https://streak-stats.demolab.com?user=kalebzaki4&theme=tokyonight&hide_border=false" width="400" alt="GitHub Streak">
 </p>
 
 ---
 
-# 📬 Contato
+# 📬 Contato & Verification
 
-📩 Sempre aberto para oportunidades, networking e projetos desafiadores.
+Estou sempre aberto a feedbacks, conexões profissionais e desafios que me façam sair da zona de conforto. Vamos conversar?
 
-### Vamos conversar:
-
-- LinkedIn:  
-https://www.linkedin.com/in/kaleb-z-santos-74214434b/
-
-- GitHub:  
-https://github.com/kalebzaki4
+* **LinkedIn:** [linkedin.com/in/kaleb-z-santos](https://www.linkedin.com/in/kaleb-z-santos-74214434b/)
+* **Portfólio de Certificados Alura:** [Validar Conquistas Técnicas](https://cursos.alura.com.br/user/kalebzsantos/fullCertificate/6931f26a868ec00c34a4b1f9b7779791)
 
 ---
 
-⭐ *“Código limpo não é sobre perfeição, é sobre respeito ao próximo desenvolvedor.”*
+<p align="center">
+  ⭐ <em>“Código limpo não é sobre perfeição, é sobre respeito ao próximo desenvolvedor.”</em>
+</p>
