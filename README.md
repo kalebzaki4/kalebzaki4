@@ -1,166 +1,92 @@
-<h1 align="center">👋 Olá, eu sou Kaleb Santos</h1>
+# 👋 Olá, eu sou Kaleb Santos
 
-<p align="center">
-  <strong>Desenvolvedor Backend Java | Spring Boot 3 | APIs Resilientes | Arquitetura Escalável</strong>
-</p>
+**Estudante de programação | Foco em Backend com Java e Spring Boot**
 
-<p align="center">
-  🚀 Em busca de evolução contínua e da primeira oportunidade como Estágio / Jovem Aprendiz em Tecnologia
-</p>
+🚀 Em busca da minha primeira oportunidade como Jovem Aprendiz / Estágio em Tecnologia
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kalebzaki4&color=blue&style=flat-square" alt="Views">
-</p>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/kaleb-z-santos-74214434b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/kalebzaki4">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</div>
+[LinkedIn](https://www.linkedin.com/in/kaleb-z-santos/) · [GitHub](https://github.com/kalebzaki4)
 
 ---
 
-# 👨‍💻 Sobre Mim
+## 👨‍💻 Sobre mim
 
-Sou um desenvolvedor backend focado no ecossistema **Java e Spring Boot**, dedicado a construir sistemas seguros, limpos e de alta performance. Minha jornada na tecnologia começou em 2022 e, desde então, evoluí dos fundamentos full-stack para um mergulho profundo em arquitetura de software corporativa.
+Tenho 17 anos, sou de São João da Boa Vista (SP), e estou construindo minha base em programação com foco em backend Java. Estudo pela Alura (trilha Java e Spring Boot) e curso Administração em paralelo no Senac — gosto de entender tanto a parte técnica quanto a de gestão, porque no futuro quero empreender.
 
-Sigo rigorosamente princípios de **Clean Code, SOLID, e separação de responsabilidades**. Busco ir além do "código que funciona", preocupando-me ativamente com a manutenibilidade a longo prazo, análise estática e prevenção de débitos técnicos.
+Aprendo programando de verdade: em vez de só assistir aula, refaço os projetos do zero pra entender cada decisão de arquitetura. Os projetos abaixo são o resultado disso — ainda estou evoluindo, mas cada um foi pensado e construído por mim.
 
-> 🎯 **Nota de Transparência sobre meu Foco:** No meu histórico, possuo uma carga horária expressiva em tecnologias Frontend (React, TypeScript, Angular). No entanto, **o Frontend não é o meu foco**. Tomei a decisão estratégica de direcionar 100% da minha energia para a Engenharia Backend. Como estou há bastante tempo sem praticar a construção de interfaces, posso enfrentar uma curva natural de readaptação ou lentidão inicial caso precise atuar no Front. Tenho a base conceitual, mas minha real fluidez e domínio prático hoje estão nas regras de negócio, segurança e bancos de dados.
+## 🚀 Projetos em destaque
 
-### 🎯 Meus focos atuais de estudo e aplicação:
-- 🔐 **Segurança Avançada:** Autenticação Stateless com Spring Security, filtros customizados e JWT.
-- 🏗️ **Arquitetura & Design:** Padrão DTO com Java Records, injeção de dependência estritamente via construtor e desacoplamento de entidades.
-- 🐳 **Infraestrutura como Código & DevOps:** Containerização de ambientes com Docker/Docker Compose e automação de CI/CD.
-- 🛡️ **Resiliência:** Tratamento global de exceções centralizado e controle de concorrência.
+### 🔗 SyncSpace
+Sistema de reserva de salas com autenticação e controle de conflitos de horário.
+- Autenticação com JWT via Spring Security
+- Arquitetura em camadas, DTOs com Java Records, injeção de dependência via construtor
+- Validação de conflito de horários entre reservas (a parte mais desafiadora do projeto)
+- Docker Compose, documentação via Swagger/OpenAPI
+- **Status:** ~90% pronto — terminando a regra de negócio de conflito de salas antes de partir pros testes automatizados
 
----
+**Stack:** Java 21 · Spring Boot 3.2 · Spring Security · MySQL · Docker · Swagger
+🔗 [Repositório](https://github.com/kalebzaki4/SyncSpace)
 
-# 🚀 Projetos em Destaque
+### 💳 payment-gateway-api (JavaPay)
+Simulação de um sistema bancário: contas, saldo e transferências entre elas.
+- Modelagem de banco de dados para contas e transações
+- Lógica de transferência com controle de consistência entre débito e crédito
+- API REST documentada com Swagger
 
-## 💳 [Payment Gateway API](https://github.com/kalebzaki4/payment-gateway-api)
-### API Robusta para Simulação de Ecossistema Fintech
+**Stack:** Java · Spring Boot · Spring Security (JWT) · MySQL
+🔗 [Repositório](https://github.com/kalebzaki4/payment-gateway-api)
 
-API desenvolvida para simular cenários reais do mercado financeiro e de grandes empresas de tecnologia (fintechs), focada no processamento de transações de alta criticidade, consistência de dados e resiliência.
+### 📅 Estuda-Mais
+Aplicação fullstack pra organização de rotina de estudos.
+- Frontend em React + TypeScript, backend em Java + Spring Boot
+- Autenticação JWT, acompanhamento de progresso do usuário
+- Ambiente containerizado com Docker + Nginx
 
-- **Diferenciais Técnicos:** Aplicação prática de conceitos de arquitetura distribuída, gestão avançada de transações financeiras e isolamento de regras de negócio de alta complexidade.
-- **Boas Práticas:** Tratamento rigoroso de payloads de entrada, blindagem contra estados inconsistentes e validação nativa.
+**Stack:** React · TypeScript · Java · Spring Boot · MySQL · Docker
+🔗 [Repositório](https://github.com/kalebzaki4/Estuda-Mais)
 
-**Tech Stack:** `Java 21` `Spring Boot 3` `Spring Data JPA` `MySQL` `Docker` `REST API`
+### 📦 csv-data-importer
+Serviço de importação de dados em lote a partir de arquivos CSV.
 
----
+**Stack:** Java · Spring Boot · MySQL · OpenCSV
+🔗 [Repositório](https://github.com/kalebzaki4/csv-data-importer)
 
-## 🔗 [SyncSpace](https://github.com/kalebzaki4/room-reservation-api)
-### Sistema Corporativo de Reservas com Controle de Concorrência
+### 🗄️ database-modeling-patterns
+Estudos de modelagem relacional e SQL — entidades, relacionamentos, otimização de consultas.
 
-API corporativa de alta performance para reserva de salas, projetada para mitigar gargalos reais de concorrência e integridade transacional em sistemas escaláveis.
+**Stack:** MySQL · PostgreSQL · SQL Server
+🔗 [Repositório](https://github.com/kalebzaki4/database-modeling-patterns)
 
-- **Controle de Concorrência:** Implementação de **Optimistic Locking (@Version)** para garantir a consistência dos dados em múltiplos acessos simultâneos.
-- **Segurança Blindada:** Interceptação customizada de requisições via cadeia de filtros (**OncePerRequestFilter**) integrada ao Spring Security e JWT.
-- **Design Limpo:** Arquitetura em camadas, injeção de dependência segura via construtor (imutabilidade com `private final`), isolamento de contratos usando **Java Records como DTOs** e tratamento global de erros com `@ControllerAdvice`.
-- **Qualidade de Código:** Refatorado constantemente utilizando análise estática com **SonarQube** para eliminação de *code smells*.
+## 🛠 Tecnologias
 
-**Tech Stack:** `Java 21` `Spring Boot 3.2` `Spring Security` `JWT` `MySQL` `Docker Compose` `Swagger (OpenAPI)` `JUnit` `Mockito`
+**Backend:** Java, Spring Boot, Spring Data JPA, Spring Security (JWT), MySQL
+**Ferramentas:** Docker, Git/GitHub, Swagger/OpenAPI
+**Aprendendo agora:** testes automatizados (JUnit/Mockito), CI/CD com GitHub Actions
 
----
+**Base em Frontend (não é meu foco atual):** React, TypeScript
 
-## 📅 [Estuda+ (Plataforma FullStack)](https://github.com/kalebzaki4/Estuda-Mais)
-### Ecossistema Web para Produtividade Acadêmica
+## 📚 Formação
 
-Aplicação voltada para organização de tarefas e rotina de estudos, unindo uma interface moderna e intuitiva a um ecossistema backend integrado.
+Estudando programação desde 2022, com **141h em cursos de Back-end**, 44h em DevOps e 32h em Modelagem de Dados na Alura. Trilhas mais relevantes pro meu foco atual:
 
-- **Integração Ponta a Ponta:** Autenticação segura via JWT, monitoramento de progresso do estudante em tempo real e persistência relacional.
-- **Infraestrutura Local:** Ambiente totalmente containerizado e orquestrado, utilizando Nginx para servir o ecossistema frontend de forma eficiente.
+- **Java e Spring Boot 3 (32h)** — APIs REST, boas práticas de segurança, documentação, testes e deploy
+- **Java Web: crie aplicações usando Spring Boot (40h)** — Spring Data JPA, lambdas e streams, integração com frontend
+- **Boas Práticas em Java (30h)** — refatoração, SOLID, automação de testes
+- **Praticando Java (38h)** — fundamentos e Orientação a Objetos
+- **Modelagem de Banco de Dados (32h)** — entidades, relacionamentos, modelo lógico, normalização
+- **DevOps: Docker e GitHub (16h)** — containers e versionamento de código
 
-**Tech Stack:** `React` `TypeScript` `Tailwind CSS` `Java` `Spring Boot` `MySQL` `Docker` `Nginx`
+Curso técnico em **Administração — Senac** (em andamento)
 
----
+📜 [Certificado completo (Alura)](https://cursos.alura.com.br/user/kalebzsantos/fullCertificate/6931f26a868ec00c34a4b1f9b7779791)
 
-## 📦 Outros Projetos Relevantes
-- **[CSV Data Importer](https://github.com/kalebzaki4/csv-data-importer):** Serviço de processamento em lote (Batch Processing) para ingestão transacional de grandes volumes de dados de vendas usando OpenCSV e Hibernate.
+## 📬 Contato
 
----
+Aberto a oportunidades de Jovem Aprendiz e Estágio em desenvolvimento backend. Vamos conversar!
 
-# 🛠 Tecnologias e Ferramentas
+[LinkedIn](https://www.linkedin.com/in/kaleb-z-santos/)
 
-### Backend & Bancos de Dados (Foco Principal)
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,mysql,postgresql,postman" alt="Backend Skills" />
+## 💼 Freelances
 
-### DevOps, Infraestrutura & Ferramentas
-<img src="https://skillicons.dev/icons?i=docker,nginx,git,github,linux,vscode" alt="Tools Skills" />
-
-### Frontend & Linguagens de Interface (Histórico/Conceitual)
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind" alt="Frontend Skills" />
-
----
-
-# ⭐ Diferenciais que Entrego
-
-- **Mentalidade Clean Code:** Substituição de injeção por atributo (*Field Injection*) por injeção via construtor, garantindo código altamente testável.
-- **APIs Limpas (Sem try-catch espalhado):** Centralização de erros através de exceções semânticas de domínio capturadas por um Handler global.
-- **Garantia de Desempenho:** Preocupação com transações e performance de banco de dados (Indexação, Batch updates com JPA).
-- **Documentação Viva:** Contratos de APIs 100% documentados e testáveis via Swagger UI.
-
----
-
-# 📚 Cursos & Certificações (Alura)
-
-Com **mais de 99 cursos concluídos**, organizei abaixo as formações e especializações de maior impacto e relevância técnica para o mercado corporativo:
-
-### 🔥 Java & Ecossistema Spring Boot (Foco Backend)
-* **Trilha Java e Spring Boot 3 (32h):** Desenvolvimento de APIs REST, Spring Security (Autenticação Stateless com JWT), testes dinâmicos, documentação e deploy.
-* **Trilha Java Web & Spring Data JPA (40h):** Domínio de concorrência, mapeamento relacional, consultas avançadas e uso avançado de Java Lambdas e Streams.
-* **Trilha Boas Práticas em Java (30h):** Refatoração de código legado, aplicação de SOLID e automação de testes unitários.
-* **Selenium com Java (8h):** Desenvolvimento de testes automatizados de aceitação ponta a ponta.
-
-### 🐳 DevOps & Infraestrutura
-* **DevOps & Containers com Docker (8h):** Construção, gerenciamento e orquestração de ambientes isolados usando Docker e Docker Compose.
-* **Redes, Protocolos & Fundamentos da Web (32h):** Compreensão aprofundada de arquitetura de redes, VLANs, segurança e tráfego HTTP por baixo dos panos.
-
-### 💾 Engenharia de Dados
-* **Modelagem de Bancos de Dados (24h):** Arquitetura e design de dados relacionais (Entidades, Atributos, Relacionamentos e Modelo Lógico).
-
-### ⚛️ Frontend (Bagagem de Fundamentos / Fora de Prática Ativa)
-* **Formações React com TypeScript (~220h acumuladas):** Componentes modernos, gerenciamento de estado (Recoil/Context API), React Router, testes e performance.
-* **Formações Angular & Testes Avançados (~70h):** Fundamentos do framework, CRUDs e testes de interfaces com Jasmine e Karma.
-> ⚠️ *Nota técnica:* Embora possua sólida bagagem teórica nesta seção, estes estudos fazem parte da minha base fullstack inicial. Por opção de carreira, não venho exercitando o desenvolvimento visual em código recentemente, focando restritamente no backend.
-
----
-
-# 📈 Roadmap 2026
-
-- [x] APIs REST robustas com Spring Boot 3
-- [x] Segurança Avançada com JWT e Filtros
-- [x] Docker e Orquestração de Containers locais
-- [x] Projeto Fintech Completo (`payment-gateway-api`)
-- [ ] Automação de CI/CD com GitHub Actions completo nos repositórios
-- [ ] Escrita de Testes de Integração abrangentes
-- [ ] Arquiteturas de Microsserviços com Spring Cloud
-- [ ] Deploy profissional em Provedor Cloud (AWS/GCP)
-
----
-
-# 📊 Estatísticas
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kalebzaki4&theme=radical" width="400" alt="GitHub Stats">
-  <img src="https://streak-stats.demolab.com?user=kalebzaki4&theme=tokyonight&hide_border=false" width="400" alt="GitHub Streak">
-</p>
-
----
-
-# 📬 Contato & Verification
-
-Estou sempre aberto a feedbacks, conexões profissionais e desafios que me façam sair da zona de conforto. Vamos conversar?
-
-* **LinkedIn:** [linkedin.com/in/kaleb-z-santos](https://www.linkedin.com/in/kaleb-z-santos-74214434b/)
-* **Portfólio de Certificados Alura:** [Validar Conquistas Técnicas](https://cursos.alura.com.br/user/kalebzsantos/fullCertificate/6931f26a868ec00c34a4b1f9b7779791)
-
----
-
-<p align="center">
-  ⭐ <em>“Código limpo não é sobre perfeição, é sobre respeito ao próximo desenvolvedor.”</em>
-</p>
+- **Site institucional — E.E. Profª Anésia Martins Mattos:** desenvolvi o site para entrega a uma escola pública de São João da Boa Vista (SP), com informações institucionais sobre a unidade.
+🔗 [anesiamattos.vercel.app](https://anesiamattos.vercel.app)
